@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007417112746",
+    "firebase_url": "https://realtime-database-52e93-default-rtdb.firebaseio.com",
+    "project_id": "realtime-database-52e93",
+    "storage_bucket": "realtime-database-52e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007417112746:android:90dcbb4a743323c92738d3",
+        "android_client_info": {
+          "package_name": "com.intentsoft.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007417112746-cv7r9pm5st8hlq32qjrfcp4oesulqqvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAibpoFopAsmqLHQriTi3Y6y5oFW9yj_lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007417112746-cv7r9pm5st8hlq32qjrfcp4oesulqqvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
